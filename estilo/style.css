@@ -69,7 +69,7 @@ header > p {
     padding-left: 10px;
     max-width: 600px;
     margin: auto;
-    margin-bottom: 10px;
+    padding-bottom: 50px;
     text-shadow: 6px 6px 5px rgba(10, 10, 10, 0.384);
 }
 
